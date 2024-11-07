@@ -19,3 +19,6 @@ the url input user makes in turns become a qrCode image
 which can be used to access the url every where!
 
 
+#NODE
+#JS
+#QrCode
