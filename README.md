@@ -14,11 +14,17 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `url indexed`
+as you enter the url
+a user inputs an address or a link
+the url becomes a qrCode image
+which can be used to access the url!
 
-the url input user makes in turns become a qrCode image
-which can be used to access the url every where!
+```ts
+    codeDEsign with : `NodeJS`
+    code to use : ES6
+    proper usage of: promise in functions
+```` 
 
-
-#NODE
-#JS
-#QrCode
+# NODEJS
+# JS
+# qrCode
